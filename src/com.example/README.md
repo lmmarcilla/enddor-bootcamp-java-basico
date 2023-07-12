@@ -9,3 +9,8 @@ Para este primer ejercicio tendréis que realizar lo siguiente:
 * Dentro de la clase tenéis que crear el método main e imprimir todos los datos que se han visto en las sesiones.
 
 Recordatorio: Los tipos de datos más comunes son int, long, double, boolean, String.
+
+## Ejercicio 2:
+
+Para este ejercicio tendréis que crear una función que reciba un precio y devuelva el precio con el IVA incluido.
+
