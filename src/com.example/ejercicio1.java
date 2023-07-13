@@ -26,5 +26,6 @@ public class ejercicio1 {
         String var9 = "Hola mundo";
         System.out.println("Variable 'String': "+var9);
 
+
     }
 }
