@@ -14,3 +14,10 @@ Recordatorio: Los tipos de datos más comunes son int, long, double, boolean, St
 
 Para este ejercicio tendréis que crear una función que reciba un precio y devuelva el precio con el IVA incluido.
 
+## Ejercicio 3:
+
+En este ejercicio tenéis que crear un bucle que permita concatenar textos e imprima el resultado final por consola.
+
+Tened en cuenta que los textos pueden venir de un array de tipo String. Por ejemplo:
+
+String[] nombres = {"", "", "", ""}
